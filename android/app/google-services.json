@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "665630150437",
+    "project_id": "altheimer-aba5d",
+    "storage_bucket": "altheimer-aba5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665630150437:android:97f9e729cfc4f927d414cc",
+        "android_client_info": {
+          "package_name": "com.example.althhimer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQftn-x9OfHkEGwxGukVM-bGdUiPEYvR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
