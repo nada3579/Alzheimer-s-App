@@ -1,16 +1,12 @@
 # althhimer_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Timeless App 
+Graduation Project | Flutter, AI-based Facial Recognition, API Integration 
+Developed an easy-to-use mobile application designed for Alzheimer’s patients. The app helps patients 
+remember events, stay connected with loved ones, and recognize people using AI-based facial recognition 
+technology. Key functionalities include: 
+• Updates: Displays a feed of photos with tagged names and relationships in a custom
+designed Instagram-like UI. 
+• Today: Provides daily activity reminders for better management of daily tasks. 
+• Identify: Uses facial recognition to identify people through the phone's camera, enhancing 
+patient confidence. 
+• Assistant Portal: Allows caregivers to monitor and follow up on the patient's condition.
