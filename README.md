@@ -1,4 +1,4 @@
-# althhimer_app
+# Alzheimer_app
 Timeless App 
 Graduation Project | Flutter, AI-based Facial Recognition, API Integration 
 Developed an easy-to-use mobile application designed for Alzheimer’s patients. The app helps patients 
